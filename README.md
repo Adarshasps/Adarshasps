@@ -7,7 +7,7 @@ Hi 👋 My name is Adarsh
 Learning basics of C, Java, and Python 3, HTML, CSS, JavaScript, and dabbling in algorithms Happy to be part of Github, ready to learn
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://github.com/Pradeep1205k/Portfolio](https://pradeep1205k.github.io/Portfolio/)
+* 🖥️  See my portfolio at [https://adarshasps.github.io/Portfolio/](https://adarshasps.github.io/Portfolio/)
 * ✉️  You can contact me at [adarshasps@gmail.com](mailto:adarshasps@gmail.com)
 * 🧠  I'm learning Full Stack development.
 * 🤝  I'm open to collaborating on the learning stage.
